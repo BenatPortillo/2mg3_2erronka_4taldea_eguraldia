@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><informazioFiltratua><dia fecha="2025-03-04"><temperatura_maximoa>17</temperatura_maximoa><temperatura_minimoa>9</temperatura_minimoa><zeruaren_egoera>Nubes altas</zeruaren_egoera><euri_probabilitatea>5</euri_probabilitatea><haize_abiadura>15</haize_abiadura></dia><dia fecha="2025-03-05"><temperatura_maximoa>17</temperatura_maximoa><temperatura_minimoa>11</temperatura_minimoa><zeruaren_egoera>Nuboso</zeruaren_egoera><euri_probabilitatea>0</euri_probabilitatea><haize_abiadura>10</haize_abiadura></dia><dia fecha="2025-03-06"><temperatura_maximoa>16</temperatura_maximoa><temperatura_minimoa>11</temperatura_minimoa><zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera><euri_probabilitatea>95</euri_probabilitatea><haize_abiadura>20</haize_abiadura></dia><dia fecha="2025-03-07"><temperatura_maximoa>17</temperatura_maximoa><temperatura_minimoa>12</temperatura_minimoa><zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera><euri_probabilitatea>100</euri_probabilitatea><haize_abiadura>20</haize_abiadura></dia><dia fecha="2025-03-08"><temperatura_maximoa>18</temperatura_maximoa><temperatura_minimoa>10</temperatura_minimoa><zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera><euri_probabilitatea>100</euri_probabilitatea><haize_abiadura>25</haize_abiadura></dia><dia fecha="2025-03-09"><temperatura_maximoa>17</temperatura_maximoa><temperatura_minimoa>7</temperatura_minimoa><zeruaren_egoera>Intervalos nubosos con lluvia escasa</zeruaren_egoera><euri_probabilitatea>75</euri_probabilitatea><haize_abiadura>20</haize_abiadura></dia><dia fecha="2025-03-10"><temperatura_maximoa>16</temperatura_maximoa><temperatura_minimoa>7</temperatura_minimoa><zeruaren_egoera>Nuboso con lluvia escasa</zeruaren_egoera><euri_probabilitatea>75</euri_probabilitatea><haize_abiadura>20</haize_abiadura></dia></informazioFiltratua>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<informazioFiltratua>
+    <dia fecha="2025-03-04">
+        <temperatura_maximoa>17</temperatura_maximoa>
+        <temperatura_minimoa>9</temperatura_minimoa>
+        <zeruaren_egoera>Nubes altas</zeruaren_egoera>
+        <euri_probabilitatea>5</euri_probabilitatea>
+        <haize_abiadura>15</haize_abiadura>
+    </dia>
+    <dia fecha="2025-03-05">
+        <temperatura_maximoa>17</temperatura_maximoa>
+        <temperatura_minimoa>11</temperatura_minimoa>
+        <zeruaren_egoera>Nuboso</zeruaren_egoera>
+        <euri_probabilitatea>0</euri_probabilitatea>
+        <haize_abiadura>10</haize_abiadura>
+    </dia>
+    <dia fecha="2025-03-06">
+        <temperatura_maximoa>16</temperatura_maximoa>
+        <temperatura_minimoa>11</temperatura_minimoa>
+        <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
+        <euri_probabilitatea>95</euri_probabilitatea>
+        <haize_abiadura>20</haize_abiadura>
+    </dia>
+    <dia fecha="2025-03-07">
+        <temperatura_maximoa>17</temperatura_maximoa>
+        <temperatura_minimoa>12</temperatura_minimoa>
+        <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
+        <euri_probabilitatea>100</euri_probabilitatea>
+        <haize_abiadura>20</haize_abiadura>
+    </dia>
+    <dia fecha="2025-03-08">
+        <temperatura_maximoa>18</temperatura_maximoa>
+        <temperatura_minimoa>10</temperatura_minimoa>
+        <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
+        <euri_probabilitatea>100</euri_probabilitatea>
+        <haize_abiadura>25</haize_abiadura>
+    </dia>
+    <dia fecha="2025-03-09">
+        <temperatura_maximoa>17</temperatura_maximoa>
+        <temperatura_minimoa>7</temperatura_minimoa>
+        <zeruaren_egoera>Intervalos nubosos con lluvia escasa</zeruaren_egoera>
+        <euri_probabilitatea>75</euri_probabilitatea>
+        <haize_abiadura>20</haize_abiadura>
+    </dia>
+    <dia fecha="2025-03-10">
+        <temperatura_maximoa>16</temperatura_maximoa>
+        <temperatura_minimoa>7</temperatura_minimoa>
+        <zeruaren_egoera>Nuboso con lluvia escasa</zeruaren_egoera>
+        <euri_probabilitatea>75</euri_probabilitatea>
+        <haize_abiadura>20</haize_abiadura>
+    </dia>
+</informazioFiltratua>
