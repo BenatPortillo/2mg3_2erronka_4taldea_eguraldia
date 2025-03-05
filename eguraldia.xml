@@ -12,65 +12,41 @@
         <temperatura_minimoa>10</temperatura_minimoa>
         <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
         <euri_probabilitatea>100</euri_probabilitatea>
-<<<<<<< HEAD
-        <ian_prueba>25</ian_prueba>
-=======
         <haize_abiadura>25</haize_abiadura>
->>>>>>> 3a958b4e591be8a70c37143b82f6336b9418de3e
     </dia>
     <dia fecha="2025-03-07">
         <temperatura_maximoa>16</temperatura_maximoa>
         <temperatura_minimoa>11</temperatura_minimoa>
         <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
         <euri_probabilitatea>100</euri_probabilitatea>
-<<<<<<< HEAD
-        <ian_prueba>25</ian_prueba>
-=======
         <haize_abiadura>25</haize_abiadura>
->>>>>>> 3a958b4e591be8a70c37143b82f6336b9418de3e
     </dia>
     <dia fecha="2025-03-08">
         <temperatura_maximoa>18</temperatura_maximoa>
         <temperatura_minimoa>11</temperatura_minimoa>
         <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
         <euri_probabilitatea>100</euri_probabilitatea>
-<<<<<<< HEAD
-        <ian_prueba>30</ian_prueba>
-=======
         <haize_abiadura>30</haize_abiadura>
->>>>>>> 3a958b4e591be8a70c37143b82f6336b9418de3e
     </dia>
     <dia fecha="2025-03-09">
         <temperatura_maximoa>18</temperatura_maximoa>
         <temperatura_minimoa>7</temperatura_minimoa>
         <zeruaren_egoera>Intervalos nubosos con lluvia escasa</zeruaren_egoera>
         <euri_probabilitatea>70</euri_probabilitatea>
-<<<<<<< HEAD
-        <ian_prueba>20</ian_prueba>
-=======
         <haize_abiadura>20</haize_abiadura>
->>>>>>> 3a958b4e591be8a70c37143b82f6336b9418de3e
     </dia>
     <dia fecha="2025-03-10">
         <temperatura_maximoa>18</temperatura_maximoa>
         <temperatura_minimoa>8</temperatura_minimoa>
         <zeruaren_egoera>Intervalos nubosos con lluvia escasa</zeruaren_egoera>
         <euri_probabilitatea>90</euri_probabilitatea>
-<<<<<<< HEAD
-        <ian_prueba>20</ian_prueba>
-=======
         <haize_abiadura>20</haize_abiadura>
->>>>>>> 3a958b4e591be8a70c37143b82f6336b9418de3e
     </dia>
     <dia fecha="2025-03-11">
         <temperatura_maximoa>15</temperatura_maximoa>
         <temperatura_minimoa>9</temperatura_minimoa>
         <zeruaren_egoera>Muy nuboso con lluvia</zeruaren_egoera>
         <euri_probabilitatea>100</euri_probabilitatea>
-<<<<<<< HEAD
-        <ian_prueba>10</ian_prueba>
-=======
         <haize_abiadura>10</haize_abiadura>
->>>>>>> 3a958b4e591be8a70c37143b82f6336b9418de3e
     </dia>
 </informazioFiltratua>
