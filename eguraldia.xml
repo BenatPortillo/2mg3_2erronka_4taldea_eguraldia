@@ -12,41 +12,41 @@
         <temperatura_minimoa>10</temperatura_minimoa>
         <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
         <euri_probabilitatea>100</euri_probabilitatea>
-        <abiadura>25</abiadura>
+        <ian_prueba>25</ian_prueba>
     </dia>
     <dia fecha="2025-03-07">
         <temperatura_maximoa>16</temperatura_maximoa>
         <temperatura_minimoa>11</temperatura_minimoa>
         <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
         <euri_probabilitatea>100</euri_probabilitatea>
-        <abiadura>25</abiadura>
+        <ian_prueba>25</ian_prueba>
     </dia>
     <dia fecha="2025-03-08">
         <temperatura_maximoa>18</temperatura_maximoa>
         <temperatura_minimoa>11</temperatura_minimoa>
         <zeruaren_egoera>Cubierto con lluvia</zeruaren_egoera>
         <euri_probabilitatea>100</euri_probabilitatea>
-        <abiadura>30</abiadura>
+        <ian_prueba>30</ian_prueba>
     </dia>
     <dia fecha="2025-03-09">
         <temperatura_maximoa>18</temperatura_maximoa>
         <temperatura_minimoa>7</temperatura_minimoa>
         <zeruaren_egoera>Intervalos nubosos con lluvia escasa</zeruaren_egoera>
         <euri_probabilitatea>70</euri_probabilitatea>
-        <abiadura>20</abiadura>
+        <ian_prueba>20</ian_prueba>
     </dia>
     <dia fecha="2025-03-10">
         <temperatura_maximoa>18</temperatura_maximoa>
         <temperatura_minimoa>8</temperatura_minimoa>
         <zeruaren_egoera>Intervalos nubosos con lluvia escasa</zeruaren_egoera>
         <euri_probabilitatea>90</euri_probabilitatea>
-        <abiadura>20</abiadura>
+        <ian_prueba>20</ian_prueba>
     </dia>
     <dia fecha="2025-03-11">
         <temperatura_maximoa>15</temperatura_maximoa>
         <temperatura_minimoa>9</temperatura_minimoa>
         <zeruaren_egoera>Muy nuboso con lluvia</zeruaren_egoera>
         <euri_probabilitatea>100</euri_probabilitatea>
-        <abiadura>10</abiadura>
+        <ian_prueba>10</ian_prueba>
     </dia>
 </informazioFiltratua>
